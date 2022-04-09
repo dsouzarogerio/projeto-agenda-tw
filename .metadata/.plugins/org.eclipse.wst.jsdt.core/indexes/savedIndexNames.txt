@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+D:\workspace\tw-java-agenda\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3883849041.index
+3885652912.index
+2354623560.index
+3838344215.index
+3068185186.index
